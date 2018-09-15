@@ -10,28 +10,24 @@
 }
 
 .contact {
-    display: inline-block; 
-    
+    display: inline-block;    
 }
 
 .title {
     font-style: italic;    
     font-family: 'Pacifico', cursive;  
-    font-size: large;  
-    display: inline-block;
-    
+    font-size: large;       
 }
+
 .capital {
     font-style: italic;
     font-family: 'Pacifico', cursive;
     font-size: x-large;
-    display: inline-block;
     margin-left: 2px;
 }
 
 .cuadro {
     margin-top: 3px;    
-    display: inline-block;
     margin-left: 15px;
     border-style: ridge;    
 }
@@ -45,7 +41,7 @@
     font: bolder;
     color: white;
     border-style: hidden;
-    border-radius: 7%;
+    border-radius: 7%;   
 }
 
 .redes {
@@ -130,7 +126,6 @@
     }
     .fab.fa-twitter, .fab.fa-instagram, .fab.fa-facebook-square {
         font-size: 45px; 
-
     }
 
     .text, .contact1 {        
@@ -140,9 +135,8 @@
     }
     
     .text {
-        font: bold font-family: 'Mukta', sans-serif;
+         font-family: 'Mukta', sans-serif;
     }
-
 }
 
 
